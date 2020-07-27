@@ -2,10 +2,10 @@ title: Roger Hu # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  I'm a self-taught data scientist with 7 years of quantative and financial modeling experience as a consultant and a manager at Deloitte. <br>
+  I'm a self-taught data scientist with 7 years of quantative and financial modeling experience as a consultant and a manager at Deloitte. <br><br>
   You can find me on <a href="https://www.linkedin.com/in/rogerhu1989/">LinkedIn</a> or email me <a href="mailto:rogerhu1989
   @gmail.com">here</a>."
-  <br>
+  <br><br>
   <a href="https://drive.google.com/file/d/1klcZfZBzOthtPWuMIvfK7lQjH6anMa3x/view?usp=sharing">View My Resume</a>
   
 theme: jekyll-theme-minimal
