@@ -2,34 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning - Classification
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[User Churn Prediction with PySpark](https://github.com/caroger/sparkify)
+<img src="projects/churn_prediction/img1.jpeg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Disaster Response Web App](https://github.com/caroger/disaster_response)
+<img src="projects/disaster_response/img1.jpeg">
 
 ---
 
-### Category Name 2
+### Expploratory Data Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Santa Clara County Airbnb Listing](https://github.com/caroger/airbnb)
+<img src="projects/aribnb/img1.jpeg">
 
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
