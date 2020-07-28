@@ -8,5 +8,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="pdf/Roger Hu_Resume.pdf">View My Resume</a>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 google_analytics: UA-173737942-1 # your Google Analytics tracking ID here
