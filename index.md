@@ -13,7 +13,7 @@
 
 ---
 
-### Expploratory Data Analysis
+### Exploratory Data Analysis
 
 [Santa Clara County Airbnb Listing](https://github.com/caroger/airbnb)
 <img src="projects/aribnb/img1.jpeg">
